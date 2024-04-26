@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="OrikanUiTests">
+
+  <test name="RegistrationPageValidation">
+    <classes>
+      <class name="com.uitest.test.Registration"/>
+    </classes> 
+  </test> 
+  
+  
+  <test name="ContactFormValidation">
+    <classes>
+      <class name="com.uitest.test.Contact"/>
+    </classes> 
+  </test> 
+    
+  <test name="PaymentFormValidation">
+    <classes>
+      <class name="com.uitest.test.Payment"/>
+    </classes> 
+  </test> 
+  
+   <test name="TermsAndConditionsFormValidation">
+    <classes>
+      <class name="com.uitest.test.TermsAndConditions"/>
+    </classes> 
+  </test>   
+  
+</suite> 
